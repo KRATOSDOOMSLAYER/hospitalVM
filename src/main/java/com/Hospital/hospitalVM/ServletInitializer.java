@@ -1,4 +1,4 @@
-package com.Hospital.hospitalVM;
+package com.hospital.hospitalvm;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

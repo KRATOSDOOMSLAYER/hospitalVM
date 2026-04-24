@@ -1,0 +1,8 @@
+$kind: collection
+name: 'hospitalVM pacientes'
+description: 'Colección mínima para probar localmente el controlador Paciente de Spring Boot.'
+variables:
+  - key: baseUrl
+    value: 'http://localhost:8080'
+  - key: pacienteId
+    value: '1'

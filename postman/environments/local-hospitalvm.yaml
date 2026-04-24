@@ -1,0 +1,8 @@
+name: 'local-hospitalvm'
+values:
+  - key: 'baseUrl'
+    value: 'http://localhost:8080'
+    enabled: true
+  - key: 'pacienteId'
+    value: '1'
+    enabled: true
